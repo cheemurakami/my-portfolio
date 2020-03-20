@@ -1,4 +1,6 @@
-.sidebar-tab{
-    height: auto;
+.mid-container-left{
+    border: 1px solid black;
+}
+.mid-container-right{
     border: 1px solid black;
 }
