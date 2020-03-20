@@ -1,6 +1,10 @@
 .mid-container-left{
-    border: 1px solid black;
+    
 }
-.mid-container-right{
+.mid-con-right{
     border: 1px solid black;
+    border-radius: 25px;
+}
+.pic{
+    padding: 4px;
 }
