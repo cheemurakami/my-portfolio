@@ -1,5 +1,7 @@
+
+
+
 .mid-container-left{
-    
 }
 .mid-con-right{
     border: 1px solid black;
@@ -7,4 +9,12 @@
 }
 .pic{
     padding: 4px;
+}
+.neko-gif{
+    width: 180px;
+    height: 180px;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    }
 }
